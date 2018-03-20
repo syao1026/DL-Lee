@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\ML-DL\\DL-Lee\\HW1\\result\\model.ckpt"
+all_model_checkpoint_paths: "F:\\ML-DL\\DL-Lee\\HW1\\result\\model.ckpt"

@@ -1,0 +1,17 @@
+This is the homework of Prof. Lee from National Taiwan University (NTU) which you can find here:
+
+http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html
+
+I hope the code and expaination is clear enough for beginners like me ;P
+
+
+
+
+%%%%%%%%%
+HW0-1
+
+i think this is for later use, like read the label file and do some statistic work
+
+HW0-2
+
+very simple image processing 
